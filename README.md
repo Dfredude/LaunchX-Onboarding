@@ -1,5 +1,5 @@
 # LaunchX-Microsoft
-Full-Stack Bootcamp
+Full-Stack Bootcamp Onboarding with Python Jupyter Notebooks
 
 ### About it
 - All katas (Excercises) are in this repository
